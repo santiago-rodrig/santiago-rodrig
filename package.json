@@ -1,0 +1,30 @@
+{
+  "name": "santiago-rodrig",
+  "version": "1.0.0",
+  "description": "<!-- **santiago-rodrig/santiago-rodrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "server": "live-server build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiago-rodrig/santiago-rodrig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiago-rodrig/santiago-rodrig/issues"
+  },
+  "homepage": "https://github.com/santiago-rodrig/santiago-rodrig#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "particles.js": "^2.0.0"
+  }
+}

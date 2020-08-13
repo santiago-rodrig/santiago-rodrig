@@ -1,0 +1,8 @@
+# vim backup files
+
+*.swp
+*.swo
+
+# node modules
+
+node_modules
