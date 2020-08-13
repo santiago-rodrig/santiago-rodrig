@@ -1,5 +1,62 @@
 #particles-js {
-  background-color: #a0d0f8;
+  background-color: white;
   height: 860px;
   width: 100%;
+  position: relative;
 }
+
+#typewriter-text {
+  display: flex;
+}
+
+#prompt {
+  font-size: 2rem;
+  color: #53ed2d;
+  margin-right: 8px;
+}
+
+#red-circle,
+#yellow-circle,
+#green-circle {
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  top: -17px;
+}
+
+#red-circle {
+  left: 10px;
+  background-color: #f0504d;
+}
+
+#yellow-circle {
+  left: 29px;
+  background-color: #f5dd2a;
+}
+
+#green-circle {
+  left: 48px;
+  background-color: #53ed2d;
+}
+
+#typewriter-box {
+  width: 40%;
+  height: 150px;
+  border-radius: 12px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #333;
+  padding: 2rem;
+  color: #fefefe;
+  border: 1px solid #eee;
+  border-top: 25px solid #eee;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.type-wrapper, .type-cursor {
+  font-size: 2rem;
+}
+

@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "install": "^0.13.0",
-    "particles.js": "^2.0.0"
+    "particles.js": "^2.0.0",
+    "typewriter-effect": "^2.13.1"
   }
 }
