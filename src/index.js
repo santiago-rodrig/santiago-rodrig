@@ -13,6 +13,7 @@ const typeWriter = new Typewriter('#typewriter', {
 });
 
 typeWriter
+  .pauseFor(2000)
   .typeString('Hi, my name is Santiago Rodriguez')
   .pauseFor(2500)
   .deleteAll(50)
