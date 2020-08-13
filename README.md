@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-![gif about me](./about.gif)
+![gif about me](https://github.com/santiago-rodrig/santiago-rodrig/blob/master/about.gif)
 
 I'm Santiago, a full-stack web developer specialized in Ruby on Rails, I studied in the
 [Microverse school for remote software developers](https://www.microverse.org/)
